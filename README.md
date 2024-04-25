@@ -2,3 +2,5 @@ Retrofit yerine HttpUrlConnection kullanılarak get ve post ile ilgili bir çal�
 
 default olarak github da main yerine master seçildi.
 
+week 4 
+
